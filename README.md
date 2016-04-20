@@ -1,2 +1,2 @@
-# js-ipfs-example-browser
-An example of loading an IPFS Node into the browser. More to come soon...
+#js-ipfs-example-browser
+An example of how to load an ipfs node into the browser
